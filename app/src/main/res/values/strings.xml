@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardCollector</string>
+    <string name="swipe_to_open">Tap the button to open a pack</string>
+</resources>
